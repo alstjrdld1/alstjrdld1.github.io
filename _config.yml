@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "MINSEOK KIM"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "우주과학과 뉴비 코딩러입니다."
+  location         : "Suwon, Gyeonggi-do"
+  email            : minseok_kim@khu.ac.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
